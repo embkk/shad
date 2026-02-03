@@ -1,0 +1,21 @@
+# Виртуальное окружение (самое важное)
+venv/
+.venv/
+env/
+
+# Python мусор
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Данные (обычно огромные, в гит не кладем)
+*.csv
+*.json
+*.parquet
+/data/
+
+# Конфиги системы
+.DS_Store
