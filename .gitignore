@@ -12,10 +12,10 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Данные (обычно огромные, в гит не кладем)
-*.csv
-*.json
-*.parquet
-/data/
+#*.csv
+#*.json
+#*.parquet
+#/data/
 
 # Конфиги системы
 .DS_Store
